@@ -6,27 +6,34 @@
 Système de gestion complet pour le tracking des produits IT retournés, leur vérification technique et leur destination finale (recyclage, revente, don).
 
 **Base de données** : PostgreSQL  
-**Statut** : ✅ Créée dans pgAdmin  
-**Nom** : `ITManagementDB`
+**Statut** : ✅ Créée avec DATAGRIP
+**Nom** : `sitcomDB`
 
 ---
 
 ## 🗂️ Structure du projet
 
 ```md
-DB_IT_Product_Management/
-├── scripts/
-│   ├── create_database.sql           # Documentation de la configuration DB
-│   ├── seed_data.sql                 # Données de test et exemples
-│   └── migrations/
-│       ├── 001_initial_schema.sql    # Création de toutes les tables
-│       └── 002_add_indexes.sql       # Index, triggers et optimisations
-├── queries/
-│   ├── reports.sql                   # Requêtes de reporting standards
-│   └── analytics.sql                 # Analyses et statistiques avancées
-└── assets/                           # Ressources du projet (anciennement "ressources")
-    └── DB_modelisation/              # Dossier de modélisation de base de données
-        └── modelDbReturnedProduct.drawio  # Diagramme ER complet
+SITCOM Project DB/
+├── idea/
+│   ├── dataSources          
+│   ├── dictionaries                 
+│   └── scopes/
+│   └── data_source_mapping.xml/
+│   └── dataSources.local.xml
+│   └── dataSources.xml
+│   └── modules.xml
+│   └── recyclage_IT.iml
+│   └── sqlDataSources.xml
+│   └── sqldialects.xml
+│   └── vcs.xml
+│   └── workspace.xml                                 
+│                  
+├── assets/                           # Ressources du projet (anciennement "ressources")
+│   └── DB_modelisation/             # Dossier de modélisation de base de données
+│       └── modelDbReturnedProduct.drawio  # Diagramme ER complet             
+├── README.md
+        
 ```
 
 ---
