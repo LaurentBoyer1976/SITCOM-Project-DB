@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="47ebea91-9be9-4940-83df-1f3de1dc1908" name="DDL sitcomDB Mapping">
+      <data-sources db="3ad53252-b402-4f05-98ad-5875b4ba444b" ddl="03565bbe-2a70-4463-9286-ab5cbf859403" />
+      <scope>
+        <node kind="database" qname="sitcomdb" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="03565bbe-2a70-4463-9286-ab5cbf859403" />
+          <option name="name" value="postgres@localhost (DDL)" />
+          <option name="dbmsName" value="POSTGRES" />
+          <option name="urls">
+            <array />
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

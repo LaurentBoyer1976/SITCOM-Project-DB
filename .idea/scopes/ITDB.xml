@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="ITDB" pattern="file[recyclage_IT]:*/||file[recyclage_IT]:*" />
+</component>
