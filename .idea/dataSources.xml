@@ -6,10 +6,13 @@
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+<<<<<<< Updated upstream
       <jdbc-additional-properties>
         <property name="SHOW_TEMPLATE_DATABASES" value="true" />
         <property name="database.postgres.introspect.system.schemas" value="true" />
       </jdbc-additional-properties>
+=======
+>>>>>>> Stashed changes
       <working-dir>$ProjectFileDir$</working-dir>
       <time-zone>Europe/Paris</time-zone>
     </data-source>

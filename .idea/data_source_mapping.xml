@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
+<<<<<<< Updated upstream
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3ad53252-b402-4f05-98ad-5875b4ba444b/console.sql" value="3ad53252-b402-4f05-98ad-5875b4ba444b" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3ad53252-b402-4f05-98ad-5875b4ba444b/console_1.sql" value="3ad53252-b402-4f05-98ad-5875b4ba444b" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3ad53252-b402-4f05-98ad-5875b4ba444b/console_2.sql" value="3ad53252-b402-4f05-98ad-5875b4ba444b" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3ad53252-b402-4f05-98ad-5875b4ba444b/console_3.sql" value="3ad53252-b402-4f05-98ad-5875b4ba444b" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3ad53252-b402-4f05-98ad-5875b4ba444b/console_4.sql" value="3ad53252-b402-4f05-98ad-5875b4ba444b" />
+=======
+    <file url="mock:///a.sql" value="3ad53252-b402-4f05-98ad-5875b4ba444b" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3ad53252-b402-4f05-98ad-5875b4ba444b/console.sql" value="3ad53252-b402-4f05-98ad-5875b4ba444b" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3ad53252-b402-4f05-98ad-5875b4ba444b/console_1.sql" value="3ad53252-b402-4f05-98ad-5875b4ba444b" />
+>>>>>>> Stashed changes
   </component>
 </project>

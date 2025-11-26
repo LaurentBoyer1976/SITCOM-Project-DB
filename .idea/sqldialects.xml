@@ -2,6 +2,9 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3ad53252-b402-4f05-98ad-5875b4ba444b/console.sql" dialect="PostgreSQL" />
+<<<<<<< Updated upstream
     <file url="PROJECT" dialect="PostgreSQL" />
+=======
+>>>>>>> Stashed changes
   </component>
 </project>
